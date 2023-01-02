@@ -1,0 +1,28 @@
+/* Styling of navigation bar */
+#navdiv{
+    display:flex;
+    width:17%;
+    margin-left: 82%;
+    justify-content: space-around;
+    margin-top: 1%;
+    height:35px;
+  }
+  nav img{
+    margin-top: 5px;
+  }
+  #googleimg{
+    margin-top: 100px;
+  }
+  /* Removing underline from links*/
+  a{
+    margin-top: 8px;
+    text-decoration: none;
+  }
+  button{
+    border-radius: 3px;
+    height:100%;
+    padding:5px 12px;
+    background-color: #4C87E1 ;
+    color:white;
+    border:none;
+  }
